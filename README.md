@@ -1,4 +1,5 @@
-:tada: AndroidInterViewQuestions:tada:
+:tada: Prepared a list of android interview questions:
+:tada:
 
 1-What is Polymorphism</br>
 2-What is abstraction</br>
