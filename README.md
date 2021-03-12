@@ -33,25 +33,25 @@
 32-Kotlin inline function</br>
 33-Kotlin scope functions</br>
 34-Kotlin high level and lambda function</br>
-35: Kotlin delegates
-36: Kotlin val Vs constant 
-37: Kotlin Sealed Classes
-38: Thread and Processes
-39: Database
-40: Design pattern
-41: Architecture patterns
-42: SOLID principles 
-43: Content Providers
-44: extension function
-45: coroutines vs Rxjava
-46: foreground service vs Background service
-47: AsyncTask vs Thread vs Service
-48: AsyncTask life cycle during activity rotation
-49: Alternative of AsncTask(Deprecated in api level 30)
-50: Serialisation vs parcelable
-51-Kotlin unified
-52-What is ANR
-53-R8, delvik
-54-Dependency Injection
-55-Relationship between activity and fragment life cycle
-56-Type of activity launch modes
+35: Kotlin delegates</br>
+36: Kotlin val Vs constant </br>
+37: Kotlin Sealed Classes</br>
+38: Thread and Processes</br>
+39: Database</br>
+40: Design pattern</br>
+41: Architecture patterns</br>
+42: SOLID principles </br>
+43: Content Providers</br>
+44: extension function</br>
+45: coroutines vs Rxjava</br>
+46: foreground service vs Background service</br>
+47: AsyncTask vs Thread vs Service</br>
+48: AsyncTask life cycle during activity rotation</br>
+49: Alternative of AsncTask(Deprecated in api level 30)</br>
+50: Serialisation vs parcelable</br>
+51-Kotlin unified</br>
+52-What is ANR</br>
+53-R8, delvik</br>
+54-Dependency Injection</br>
+55-Relationship between activity and fragment life cycle</br>
+56-Type of activity launch modes</br>
