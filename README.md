@@ -1,9 +1,9 @@
 # AndroidInterViewQuestions
 
-1-What is Polymorphism
-2-What is abstraction
-3-What is Interface
-4-What is Inheritance
+1-What is Polymorphism</br>
+2-What is abstraction</br>
+3-What is Interface</br>
+4-What is Inheritance</br>
 5-Difference Between abstraction and 6-polymorphism
 7-Access Providers OOP
 8-Virtual functions
